@@ -1,6 +1,6 @@
 # Green Corporate KPI Dashboard - Power BI Case Study
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview]([assets/dashboard-preview.png](https://github.com/rizzi-uwu/green-corporate-dashboard/blob/1d13bfdd2bf96373b94c2428c404809de771a8fc/Green%20Corporate%20KPI%20Review%20Dashboard%20Presentation%20-%201.PNG))
 
 A conceptual Power BI dashboard for tracking financial, operational, customer, and sustainability metrics across corporate divisions.
 
