@@ -21,4 +21,16 @@
 ## 📸 Screenshots
 | Financial Overview | Operational Metrics |
 |--------------------|---------------------|
-| ![Financial View](https://github.com/rizzi-uwu/green-corporate-dashboard/blob/main/Green%20Corporate%20KPI%20Review%20Dashboard%20Presentation%20-%202.PNG) | ![Operational View](https://github.com/rizzi-uwu/green-corporate-dashboard/blob/main/Green%20Corporate
+| ![Financial View](https://github.com/rizzi-uwu/green-corporate-dashboard/blob/main/Green%20Corporate%20KPI%20Review%20Dashboard%20Presentation%20-%202.PNG) | ![Operational View](https://github.com/rizzi-uwu/green-corporate-dashboard/blob/main/Green%20Corporate%20KPI%20Review%20Dashboard%20Presentation%20-%203.PNG) |
+
+## 📚 Documentation
+[View Full Case Study PDF on Google Drive](https://drive.google.com/file/d/1m4enQllKz5pHaf6ZgIEOhPIjnuD0z0ar/view?usp=share_link)
+
+## 🛠️ Technical Details
+```mermaid
+graph TD
+    A[Data Sources] --> B[Power BI]
+    B --> C{Visualizations}
+    C --> D[Financial Charts]
+    C --> E[Operational Metrics]
+    C --> F[Customer Analytics]
