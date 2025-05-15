@@ -18,4 +18,7 @@ A conceptual Power BI dashboard for tracking financial, operational, customer, a
 | Customer | CSAT (4.5/5), Churn rate (4.5%) | Donut charts, scorecards |
 | Sustainability | $40M investments | Area charts, progress bars |
 
-[View Full Case Study](case_study.md)
+## 📂 Case Study Document
+[View Full Case Study PDF on Google Drive](https://drive.google.com/file/d/1m4enQllKz5pHaf6ZgIEOhPIjnuD0z0ar/view?usp=share_link)
+
+
